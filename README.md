@@ -13,5 +13,3 @@ JavaScript
 <h1>API:</h1>
 
 OpenWeatherMap API 
-<h1>  📸 Preview</h1>
-<img scr="ss.png" width="400">

@@ -7,9 +7,11 @@ This Weather App is a simple yet powerful tool designed to give you instant acce
 <h1>🚀 Technologies Used</h1>
 Frontend:
 HTML5<br>
-CSS3 (or Tailwind CSS if applicable)<br>
+CSS3 <br>
 JavaScript
 
 <h1>API:</h1>
 
 OpenWeatherMap API 
+
+<img scr="ss.png">
